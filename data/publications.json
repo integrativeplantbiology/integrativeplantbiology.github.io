@@ -18,7 +18,7 @@
     "year": 2026,
     "doi": "10.1016/j.stress.2026.101326",
     "abstract": "Transcriptomic profiling reveals dual roles of CCD7 in plant stress responses and mycorrhization.",
-    "image": "",
+    "image": "assets/images/Giudice_2026.jpg",
     "topics": ["Strigolactones", "Transcriptomics", "Stress"],
     "featured": false,
     "link": "https://doi.org/10.1016/j.stress.2026.101326"
@@ -30,7 +30,7 @@
     "year": 2026,
     "doi": "10.3390/agronomy16050537",
     "abstract": "Analysis of water transport mechanisms during cold acclimation and deacclimation in winter oilseed rape.",
-    "image": "",
+    "image": "assets/images/Rys_2026a.jpg",
     "topics": ["Water transport", "Abiotic stress", "Crop physiology"],
     "featured": false,
     "link": "https://doi.org/10.3390/agronomy16050537"
@@ -78,7 +78,7 @@
     "year": 2025,
     "doi": "10.1038/s41477-025-02128-0",
     "abstract": "Comparative genomics reveals convergent selection patterns in wheat and barley.",
-    "image": "",
+    "image": "assets/images/Mamadou_2025.png",
     "topics": ["Evolution", "Genomics", "Breeding"],
     "featured": true,
     "link": "https://doi.org/10.1038/s41477-025-02128-0"
